@@ -2,7 +2,7 @@
 
 Enhanced indentation guides with active scope highlighting.
 
-![demo](https://github.com/asiloisad/pulsar-indent-guide-plus/blob/master/assets/demo.gif?raw=true)
+![demo](https://github.com/asiloisad-pulsar/indent-guide-plus/blob/master/assets/demo.gif?raw=true)
 
 Fork of [indent-guide-improved](https://github.com/harai/indent-guide-improved).
 

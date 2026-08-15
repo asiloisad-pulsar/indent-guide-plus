@@ -1,7 +1,7 @@
 {
   "name": "indent-guide-plus",
   "description": "Enhanced indentation guides with active scope highlighting",
-  "repository": "https://github.com/asiloisad/pulsar-indent-guide-plus",
+  "repository": "https://github.com/asiloisad-pulsar/indent-guide-plus",
   "keywords": [
     "indent",
     "guide"
