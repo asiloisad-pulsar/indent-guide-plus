@@ -17,7 +17,7 @@ Fork of [indent-guide-improved](https://github.com/harai/indent-guide-improved).
 
 ## Installation
 
-To install `indent-guide-plus` search for [indent-guide-plus](https://web.pulsar-edit.dev/packages/indent-guide-plus) in the Install pane of the Pulsar settings or run `ppm install indent-guide-plus`. Alternatively, you can run `ppm install asiloisad/pulsar-indent-guide-plus` to install a package directly from the GitHub repository.
+To install `indent-guide-plus` search for [indent-guide-plus](https://web.pulsar-edit.dev/packages/indent-guide-plus) in the Install pane of the Pulsar settings or run `ppm install indent-guide-plus`. Alternatively, you can run `ppm install asiloisad-pulsar/indent-guide-plus` to install a package directly from the GitHub repository.
 
 ## Commands
 
