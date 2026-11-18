@@ -2,6 +2,9 @@
 
 Enhanced indentation guides with active scope highlighting.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [indent-guide](https://github.com/lumine-code/indent-guide).
+
 ![demo](https://github.com/asiloisad-pulsar/indent-guide-plus/blob/master/assets/demo.gif?raw=true)
 
 Fork of [indent-guide-improved](https://github.com/harai/indent-guide-improved).
